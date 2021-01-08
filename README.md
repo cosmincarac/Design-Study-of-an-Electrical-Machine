@@ -19,3 +19,9 @@ The project objectives were:
 1. Final electrical machine design
    1. Finalise a machine design based on information learned from the sensitivity analysis  
 1. Final thesis
+
+__FreedomCAR 2020 Targets vs Results__
+Requirements | DoE Targets | Final Design
+------------ | ------------- | -------------
+Rated Torque | ? | 20.13 Nm
+Peak Torque | ? | 200.01 Nm
