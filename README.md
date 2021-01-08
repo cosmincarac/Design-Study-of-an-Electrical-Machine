@@ -23,7 +23,7 @@ The project objectives were:
 __FreedomCAR 2020 Targets vs Results__
 Requirements | DoE Targets | Final Design
 ------------ | ------------- | -------------
-Rated Torque | ? Nm | 20.13 Nm
+Rated Torque | 20 Nm | 20.13 Nm
 Peak Torque | 200 Nm | 200.01 Nm
 Max. Torque Ripple  | 5 % | 4.12 %
 Rated Speed | 2800 rpm | 2800 rpm
