@@ -23,14 +23,13 @@ The project objectives were:
 __FreedomCAR 2020 Targets vs Results__
 Requirements | DoE Targets | Final Design
 ------------ | ------------- | -------------
-Rated Torque | ? | 20.13 Nm
-Peak Torque | ? | 200.01 Nm
-Max. Torque Ripple  | ? | 4.12 %
-Rated Speed | ? | 2800 rpm
-Maximum Speed | ? | 14925 rpm
-DC Link Voltage | ? | 325 V
-Max. per phase current | ? | 398 A
-Max. Diameter | ? | 250 mm
-Max. Length | ? | 200 mm
-Max. Volume | ? | 9.7 L
-Max. Peak Efficiency  | ? | 94.84 %
+Rated Torque | ? Nm | 20.13 Nm
+Peak Torque | 200 Nm | 200.01 Nm
+Max. Torque Ripple  | 5 % | 4.12 %
+Rated Speed | 2800 rpm | 2800 rpm
+Top Speed | 14000 rpm | 14925 rpm
+DC Link Voltage | 325 V | 325 V
+Max. per phase current | 400 A | 398 A
+Max. Diameter | 250 mm | 250 mm
+Max. Length | 200 mm | 200 mm
+Min. Peak Efficiency  | 95 % | 94.84 %
