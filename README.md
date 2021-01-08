@@ -7,9 +7,7 @@ This project represents my Final Year University Project, where I designed a hig
 __Objectives__
 
 The project objectives were:
-1. Literature review of electrical machine design principles
-   1. Research the different electrical machine topologies
-   1. Review the theory for the optimal machine topology  
+1. Literature review of electrical machine design principles and equations 
 1. Analytical model
    1. Create an analytical model based on machine design equations 
    1. Use the analytical model to get the initial sizing parameters of machine design
