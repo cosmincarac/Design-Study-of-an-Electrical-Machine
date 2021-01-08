@@ -25,6 +25,8 @@ Requirements | DoE Targets | Final Design
 ------------ | ------------- | -------------
 Rated Torque | 20 Nm | 20.13 Nm
 Peak Torque | 200 Nm | 200.01 Nm
+Rated Power | ? kW | ? kW
+Peak Power | ? kW | ? kW
 Max. Torque Ripple  | 5 % | 4.12 %
 Rated Speed | 2800 rpm | 2800 rpm
 Top Speed | 14000 rpm | 14925 rpm
@@ -33,3 +35,5 @@ Max. per phase current | 400 A | 398 A
 Max. Diameter | 250 mm | 250 mm
 Max. Length | 200 mm | 200 mm
 Min. Peak Efficiency  | 95 % | 94.84 %
+
+__Final Design Images__
