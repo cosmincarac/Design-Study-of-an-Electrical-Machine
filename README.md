@@ -6,7 +6,6 @@ This project represents my Final Year University Project, where I designed a hig
 
 __Objectives__
 
-The project objectives were:
 1. Literature review of electrical machine design principles and equations 
 1. Analytical model
    1. Create an analytical model based on machine design equations 
@@ -22,7 +21,11 @@ The project objectives were:
 
 __Scripts__
 
+_Motor Geometry Analytical Model.m_ - This Matlab script contained a series of motor design equations used to generate the geometric parameters for the initial MotorCAD motor model.
 
+_MotorCAD Simulation Design.mot_ - The initial geometrical parameters were used to generate this model. The simulation was run, using Finite Element Analysis, to generate the magnetic, thermal and performance characteristics of the motor. 
+
+_Sensitivity Analysis.m_ - This Matlab script was used for varying specific geometric of the motor design in order improve performance and meet the FreedomCAR 2020 Targets.
 
 __FreedomCAR 2020 Targets vs Results__
 Requirements | DoE Targets | Final Design
