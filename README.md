@@ -24,11 +24,11 @@ Objectives
 Scripts
 ---
 
-_Motor Geometry Analytical Model.m_ - This Matlab script contained a series of motor design equations used to generate the geometric parameters for the initial MotorCAD motor model.
+__Motor Geometry Analytical Model.m__ - This Matlab script contained a series of motor design equations used to generate the geometric parameters for the initial MotorCAD motor model.
 
-_MotorCAD Simulation Design.mot_ - The initial geometrical parameters were used to generate this model. The simulation was run, using Finite Element Analysis, to generate the magnetic, thermal and performance characteristics of the motor. 
+__MotorCAD Simulation Design.mot__ - The initial geometrical parameters were used to generate this model. The simulation was run, using Finite Element Analysis, to generate the magnetic, thermal and performance characteristics of the motor. 
 
-_Sensitivity Analysis.m_ - This Matlab script was used for varying specific geometric of the motor design in order improve performance and meet the FreedomCAR 2020 Targets.
+__Sensitivity Analysis.m__ - This Matlab script was used for varying specific geometric of the motor design in order improve performance and meet the FreedomCAR 2020 Targets.
 
 FreedomCAR 2020 Targets vs Results
 ---
