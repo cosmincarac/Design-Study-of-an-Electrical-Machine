@@ -51,4 +51,4 @@ Min. Peak Efficiency  | 95 % | 94.84 %
 Final Design Images
 ---
 
-![Final Motor Design](Final Motor Design.png)
+![Final Motor Design](FinalDesign.png)
