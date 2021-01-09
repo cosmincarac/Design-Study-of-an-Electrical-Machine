@@ -1,10 +1,12 @@
 # Design Study of an Electrical Machine for the U.S. Department of Energy FreedomCAR 2020 project
 
-__Intro__
- 
+Intro
+---
+
 This project represents my Final Year University Project, where I designed a high performance electric motor, which met the U.S. Department of Energy FreedomCAR 2020 project targets.
 
-__Objectives__
+Objectives
+---
 
 1. Literature review of electrical machine design principles and equations 
 1. Analytical model
