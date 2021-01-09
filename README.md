@@ -48,7 +48,7 @@ Max. Diameter | 250 mm | 250 mm
 Max. Length | 200 mm | 200 mm
 Min. Peak Efficiency  | 95 % | 94.84 %
 
-Final Design Images
+Final Design - Radial (left) and Axial View (right)
 ---
 
 ![FinalDesign](https://user-images.githubusercontent.com/63413381/104093153-94c28680-5280-11eb-97c6-cd570d89c311.PNG)
