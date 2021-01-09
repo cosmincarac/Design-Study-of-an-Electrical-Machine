@@ -21,7 +21,8 @@ Objectives
    1. Finalise a machine design based on information learned from the sensitivity analysis  
 1. Final thesis
 
-__Scripts__
+Scripts
+---
 
 _Motor Geometry Analytical Model.m_ - This Matlab script contained a series of motor design equations used to generate the geometric parameters for the initial MotorCAD motor model.
 
@@ -29,7 +30,9 @@ _MotorCAD Simulation Design.mot_ - The initial geometrical parameters were used 
 
 _Sensitivity Analysis.m_ - This Matlab script was used for varying specific geometric of the motor design in order improve performance and meet the FreedomCAR 2020 Targets.
 
-__FreedomCAR 2020 Targets vs Results__
+FreedomCAR 2020 Targets vs Results
+---
+
 Requirements | DoE Targets | Final Design
 ------------ | ------------- | -------------
 Peak Power | 58.6 kW | 58.6 kW
@@ -45,6 +48,7 @@ Max. Diameter | 250 mm | 250 mm
 Max. Length | 200 mm | 200 mm
 Min. Peak Efficiency  | 95 % | 94.84 %
 
-__Final Design Images__
+Final Design Images
+---
 
 ![Final Motor Design](/Final Motor Design.jpg)
