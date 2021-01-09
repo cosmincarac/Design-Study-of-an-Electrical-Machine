@@ -25,10 +25,10 @@ Requirements | DoE Targets | Final Design
 ------------ | ------------- | -------------
 Rated Torque | 20 Nm | 20.13 Nm
 Peak Torque | 200 Nm | 200.01 Nm
-Rated Power | ? kW | ? kW
-Peak Power | ? kW | ? kW
-Rated Speed | 2800 rpm | 2800 rpm
+Rated Power | 29.3 kW | 31.5 kW
+Peak Power | 58.6 kW | 58.6 kW
 Top Speed | 14000 rpm | 14925 rpm
+Rated Speed | 2800 rpm | 2800 rpm
 Max. Torque Ripple  | 5 % | 4.12 %
 DC Link Voltage | 325 V | 325 V
 Max. per phase current | 400 A | 398 A
