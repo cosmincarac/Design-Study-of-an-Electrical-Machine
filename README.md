@@ -52,5 +52,6 @@ Final Design - Radial and Axial View
 ---
 
 Images are presented from the final MotorCAD electric motor design:
+
 ![FinalDesign](https://user-images.githubusercontent.com/63413381/104093153-94c28680-5280-11eb-97c6-cd570d89c311.PNG)
 
