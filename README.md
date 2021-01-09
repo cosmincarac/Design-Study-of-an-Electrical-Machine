@@ -20,6 +20,10 @@ The project objectives were:
    1. Finalise a machine design based on information learned from the sensitivity analysis  
 1. Final thesis
 
+__Scripts__
+
+
+
 __FreedomCAR 2020 Targets vs Results__
 Requirements | DoE Targets | Final Design
 ------------ | ------------- | -------------
