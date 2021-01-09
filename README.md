@@ -44,3 +44,4 @@ Max. Length | 200 mm | 200 mm
 Min. Peak Efficiency  | 95 % | 94.84 %
 
 __Final Design Images__
+![Final Motor Design](/Final Motor Design.jpg)
